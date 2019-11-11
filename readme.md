@@ -3,6 +3,7 @@ Mantis Bug Tracker (MantisBT)
 
 [![Build Status](https://img.shields.io/travis/mantisbt/mantisbt/master.svg)](https://travis-ci.org/mantisbt/mantisbt)
 [![Gitter](https://img.shields.io/gitter/room/mantisbt/mantisbt.svg)](https://gitter.im/mantisbt/mantisbt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falvinkwong47%2Fmantisbt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falvinkwong47%2Fmantisbt?ref=badge_shield)
 
 Screenshots
 -----------
@@ -107,3 +108,7 @@ $g_default_redirect_delay in config_inc.php.
   to alter what should be visible at the top and bottom of each page.
 
 * All files were edited with TAB SPACES set to 4.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falvinkwong47%2Fmantisbt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falvinkwong47%2Fmantisbt?ref=badge_large)
